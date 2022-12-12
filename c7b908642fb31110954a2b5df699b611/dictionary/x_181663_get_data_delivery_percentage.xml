@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Delivery Percentage" max_length="40" name="x_181663_get_data_delivery_percentage" type="collection">
+        <element label="Average Price" max_length="15" name="average_price" type="decimal"/>
+        <element label="Close Price" max_length="15" name="close_price" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Deliverable Qty" max_length="40" name="deliverable_qty" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="% Dly Qt to Traded Qty" max_length="40" name="dly_qt_to_traded_qty" type="string"/>
+        <element label="High Price" max_length="15" name="high_price" type="decimal"/>
+        <element label="Last Price" max_length="15" name="last_price" type="decimal"/>
+        <element label="Low Price" max_length="15" name="low_price" type="decimal"/>
+        <element label="No. of Trades" max_length="40" name="no_of_trades" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Open Price" max_length="15" name="open_price" type="decimal"/>
+        <element label="Prev Close" max_length="15" name="prev_close" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Series" max_length="40" name="series" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Symbol" max_length="40" name="symbol" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Total Traded Quantity" max_length="40" name="total_traded_quantity" type="string"/>
+        <element label="Turnover" max_length="40" name="turnover" type="float"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

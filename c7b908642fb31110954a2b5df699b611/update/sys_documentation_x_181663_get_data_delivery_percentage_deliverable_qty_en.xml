@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="deliverable_qty" label="Deliverable Qty" language="en" table="x_181663_get_data_delivery_percentage">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>deliverable_qty</element>
+            <help/>
+            <hint/>
+            <label>Deliverable Qty</label>
+            <language>en</language>
+            <name>x_181663_get_data_delivery_percentage</name>
+            <plural>Deliverable Qties</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-12 15:55:53</sys_created_on>
+            <sys_id>994bc4e82fb31110954a2b5df699b61a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Deliverable Qty</sys_name>
+            <sys_package display_value="Get Data Apps from NSE" source="x_181663_get_data">c7b908642fb31110954a2b5df699b611</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Get Data Apps from NSE">c7b908642fb31110954a2b5df699b611</sys_scope>
+            <sys_update_name>sys_documentation_x_181663_get_data_delivery_percentage_deliverable_qty_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-12 15:55:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

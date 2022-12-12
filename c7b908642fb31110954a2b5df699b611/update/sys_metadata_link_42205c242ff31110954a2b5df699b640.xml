@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>0f7f08e02ff31110954a2b5df699b67b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_181663_get_data_delivery_percentage">
+    <x_181663_get_data_delivery_percentage action="INSERT_OR_UPDATE">
+        <average_price>3576.87</average_price>
+        <close_price>3572.1</close_price>
+        <date>2022-09-14</date>
+        <deliverable_qty>834088</deliverable_qty>
+        <dly_qt_to_traded_qty>30.44</dly_qt_to_traded_qty>
+        <high_price>3608</high_price>
+        <last_price>3573</last_price>
+        <low_price>3511</low_price>
+        <no_of_trades>94965</no_of_trades>
+        <number>DEL0001001</number>
+        <open_price>3518</open_price>
+        <prev_close>3555.8</prev_close>
+        <series>EQ</series>
+        <symbol>ADANIENT</symbol>
+        <sys_class_name>x_181663_get_data_delivery_percentage</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-12 16:14:17</sys_created_on>
+        <sys_id>0f7f08e02ff31110954a2b5df699b67b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-12 16:14:17</sys_updated_on>
+        <total_traded_quantity>2740337</total_traded_quantity>
+        <turnover>9801841663.35</turnover>
+    </x_181663_get_data_delivery_percentage>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-12 16:17:14</sys_created_on>
+        <sys_id>42205c242ff31110954a2b5df699b640</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DEL0001001</sys_name>
+        <sys_package display_value="Get Data Apps from NSE" source="x_181663_get_data">c7b908642fb31110954a2b5df699b611</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Get Data Apps from NSE">c7b908642fb31110954a2b5df699b611</sys_scope>
+        <sys_update_name>sys_metadata_link_42205c242ff31110954a2b5df699b640</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-12 16:17:14</sys_updated_on>
+        <tablename>x_181663_get_data_delivery_percentage</tablename>
+    </sys_metadata_link>
+</record_update>
